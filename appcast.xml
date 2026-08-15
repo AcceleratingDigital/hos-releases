@@ -3,55 +3,7 @@
   <channel>
     <title>hOS Server</title>
     <!-- Items are appended by scripts/publish-release.sh in the hos repo. -->
-    <item>
-      <title>hOS Server v0.3.0</title>
-      <pubDate>Thu, 13 Aug 2026 16:41:03 -0500</pubDate>
-      <sparkle:version>0.3.0</sparkle:version>
-      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/AcceleratingDigital/hos-releases/releases/download/v0.3.0/hOS-Server-v0.3.0.zip" sparkle:edSignature="4x3MWzY/N3bslBihTbPno7M0ComJYlOrBz/o4O92Hif+LhYc35gHVbuQR9q/sgH5at6cSAL9fDAaS5gXzdVgCg==" length="2659194" type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>hOS Server v0.3.1</title>
-      <pubDate>Thu, 13 Aug 2026 16:54:11 -0500</pubDate>
-      <sparkle:version>0.3.1</sparkle:version>
-      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/AcceleratingDigital/hos-releases/releases/download/v0.3.1/hOS-Server-v0.3.1.zip" sparkle:edSignature="XQrglrXvqzlis2AhsBwHCzZD+HhS82B45kx24PrJpa6HuszzitT89PZ3k1VhMt8kmSi9iw7z5R7cJdb31X26Dg==" length="2665109" type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>hOS Server v0.3.2</title>
-      <pubDate>Thu, 13 Aug 2026 17:02:09 -0500</pubDate>
-      <sparkle:version>0.3.2</sparkle:version>
-      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/AcceleratingDigital/hos-releases/releases/download/v0.3.2/hOS-Server-v0.3.2.zip" sparkle:edSignature="0qBAixjlhKUiBYsYeptssLO7pyoPhDjiemGuPoMqKao4WedLsX8Kw/G+uSpsmHl+GY+I+TKgPbsJ4MZBtmihCw==" length="2665690" type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>hOS Server v0.3.3</title>
-      <pubDate>Thu, 13 Aug 2026 17:13:27 -0500</pubDate>
-      <sparkle:version>0.3.3</sparkle:version>
-      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/AcceleratingDigital/hos-releases/releases/download/v0.3.3/hOS-Server-v0.3.3.zip" sparkle:edSignature="/iVP9pFbNoLhOpF5DAacwc9+wZrw/NaYYR/gHoLIVPBljl2eeK3ycgBQeIwSEBnlBhzT+QJUEnCdvMBjJpumDw==" length="2681715" type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>hOS Server v0.3.4</title>
-      <pubDate>Thu, 13 Aug 2026 17:23:08 -0500</pubDate>
-      <sparkle:version>0.3.4</sparkle:version>
-      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/AcceleratingDigital/hos-releases/releases/download/v0.3.4/hOS-Server-v0.3.4.dmg" sparkle:edSignature="5vQjzra/zr89rno8+monsALjSuOVqRW1WiRu3KddBo51lGGh8P/izAiSjoQzhACL9Ca+F2xs3UcArxubmfMHAQ==" length="2956950" type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>hOS Server v0.4.0</title>
-      <pubDate>Sat, 15 Aug 2026 18:10:05 -0500</pubDate>
-      <sparkle:version>0.4.0</sparkle:version>
-      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/AcceleratingDigital/hos-releases/releases/download/v0.4.0/hOS-Server-v0.4.0.dmg" sparkle:edSignature="rdKLImOjsfQPIYFBocbOade2vn8q+aPQ/luDjlTnCkxNnoPTPnTy2Slu9wfjEvNZmdXyDx9CAAs/A8Gr3RIcCg==" length="3818520" type="application/octet-stream"/>
-    </item>
-    <item>
+        <item>
       <title>hOS Server v0.4.0</title>
       <pubDate>Sat, 15 Aug 2026 18:19:48 -0500</pubDate>
       <sparkle:version>0.4.0</sparkle:version>
