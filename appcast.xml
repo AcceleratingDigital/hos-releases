@@ -67,5 +67,13 @@
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/AcceleratingDigital/hos-releases/releases/download/v0.6.6/hOS-Server-v0.6.6.dmg" sparkle:edSignature="6ILcPu+mvFquL8I7kJkFAvFljQKlUfP+XWBgK85WPRlPD+si7cDwtvMh2SPAq4L45KyEL7QP5rNlZNPHrwdtBg==" length="34533803" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>hOS Server v0.6.7</title>
+      <pubDate>Sun, 23 Aug 2026 02:09:46 -0500</pubDate>
+      <sparkle:version>0.6.7</sparkle:version>
+      <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/AcceleratingDigital/hos-releases/releases/download/v0.6.7/hOS-Server-v0.6.7.dmg" sparkle:edSignature="iBtRyrvqqpkgFmEFAH3xzpSbewJ6ThB1c49qJn6bvQHDu+faTmBXW2XSrKuL2eR21MlpFgL5PnlXUzVsCFJWBQ==" length="34540164" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
