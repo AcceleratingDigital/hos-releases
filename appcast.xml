@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>hOS Server</title>
-    <!-- Items are appended by scripts/publish-release.sh in the hos repo. -->
-        <item>
+    <item>
       <title>hOS Server v0.4.0</title>
       <pubDate>Sat, 15 Aug 2026 18:19:48 -0500</pubDate>
       <sparkle:version>0.4.0</sparkle:version>
@@ -117,7 +115,7 @@
     </item>
     <item>
       <title>hOS Server v0.6.13</title>
-      <pubDate>Mon, 31 Aug 2026 00:32:07 -0500</pubDate>
+      <pubDate>Mon, 31 Aug 2026 00:32:54 -0500</pubDate>
       <sparkle:version>0.6.13</sparkle:version>
       <sparkle:shortVersionString>0.6.13</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
